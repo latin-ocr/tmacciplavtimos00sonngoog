@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplavtimos00sonngoog_0009.png"; bbox 0 0 2454 3840; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 474 1579 1021 1725">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 474 1579 1021 1725">
+     <span class='ocr_line' id='line_1_1' title="bbox 680 1579 809 1623; baseline -0.016 0"><span class='ocrx_word' id='word_1_1' title='bbox 680 1579 809 1623; x_wconf 75' lang='lat' dir='ltr'>OXFORD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 474 1681 1021 1725; baseline 0.011 -6"><span class='ocrx_word' id='word_1_2' title='bbox 474 1681 600 1722; x_wconf 70' lang='lat' dir='ltr'>Pkm&#39;rzn</span> <span class='ocrx_word' id='word_1_3' title='bbox 617 1682 655 1720; x_wconf 84' lang='grc' dir='ltr'>ΛΤ</span> <span class='ocrx_word' id='word_1_4' title='bbox 672 1684 730 1721; x_wconf 80' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_5' title='bbox 748 1685 921 1725; x_wconf 80' lang='lat' dir='ltr'>CLARENDON</span> <span class='ocrx_word' id='word_1_6' title='bbox 940 1687 1021 1725; x_wconf 74' lang='lat' dir='ltr'>mss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 568 1781 919 1892">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 568 1781 919 1892">
+     <span class='ocr_line' id='line_1_3' title="bbox 604 1781 884 1823; baseline 0.018 -12"><span class='ocrx_word' id='word_1_7' title='bbox 604 1783 630 1812; x_wconf 77' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_8' title='bbox 645 1781 737 1813; x_wconf 70' lang='lat' dir='ltr'>nomn</span> <span class='ocrx_word' id='word_1_9' title='bbox 752 1783 823 1823; x_wconf 72' lang='lat' dir='ltr'>Hm,</span> <span class='ocrx_word' id='word_1_10' title='bbox 836 1784 884 1816; x_wconf 55' lang='lat' dir='ltr'>MA.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 568 1858 919 1892; baseline 0.014 -5"><span class='ocrx_word' id='word_1_11' title='bbox 568 1858 663 1888; x_wconf 78' lang='lat' dir='ltr'>PRINTER</span> <span class='ocrx_word' id='word_1_12' title='bbox 676 1858 707 1889; x_wconf 69' lang='lat' dir='ltr'>To</span> <span class='ocrx_word' id='word_1_13' title='bbox 722 1859 770 1890; x_wconf 77' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_14' title='bbox 785 1860 919 1892; x_wconf 77' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1232 3840">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1232 3840">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1232 3840; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1232 3840; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
